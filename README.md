@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+# Create Upgradable Proze contract.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Deployed 2 contracts. Second contract added auto mint functionality to the owner of the contract. Covered two contracts with tests.
 
-Try running some of the following tasks:
+[First contract verified on Mumbai network](https://mumbai.polygonscan.com/address/0x8c3b3a14811d67fbc8eb836407131aec62556665#code)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+[Second contract verified on Mumbai network](https://mumbai.polygonscan.com/address/0x8c3b3a14811d67fbc8eb836407131aec62556665#code)
+
+[UpgradeableProxy contract](https://mumbai.polygonscan.com/address/0x38f6bb398b8742e0670382bf265b4f4843e84afa#code)
